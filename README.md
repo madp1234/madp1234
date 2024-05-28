@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div style="position: relative; text-align: center; color: white;">
-  <img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY4OTcwNjMsIm5iZiI6MTcxNjg5Njc2MywicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI4VDExNDYwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyOGExNGNmNzU5MjQ1NzhkY2NjYWU2NGM5YzgzMGU3OTliOTRmZTk4ZTcwNmY2N2MyMjFhZTg3NDFkOWNmOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5KP3659M_B9ZVZbmSdgdeQJ0k0eqL7Wylqgd7F7K-B8" alt="Header Image" style="width: 100%; height: auto;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Image" style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <h1>Hello, I am Dipali</h1>
   </div>
