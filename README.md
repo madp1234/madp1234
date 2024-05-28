@@ -1,6 +1,11 @@
 # 💫 About Me:
 
-![Header Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<div style="position: relative; text-align: center; color: white;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Image" style="width: 100%; height: auto;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <h1>Hello, I am Dipali</h1>
+  </div>
+</div>
 
 ## 👋 Introduction
 Hello! 👋 I'm Dipali, a student pursuing B.Tech in Information Technology at Dharmsinh Desai University. My expertise lies in developing websites infused with AI technology. I have a keen interest in cybersecurity and enjoy exploring its nuances. Outside of tech, I love traveling, playing sports, and dancing.
@@ -43,5 +48,3 @@ I have a strong logical mind and have developed web projects using GPT technolog
 
 ---
 [![](https://visitcount.itsvg.in/api?id=madp1234&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
