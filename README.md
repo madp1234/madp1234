@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div style="position: relative; text-align: center; color: white;">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcameronmcefee.com%2Fwork%2Fthe-octocat%2F&psig=AOvVaw05pU8k9wB6jqVUMxDxj7UO&ust=1716982764662000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICpurahsIYDFQAAAAAdAAAAABAE" alt="Header Image" style="width: 100%; height: auto;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Image" style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <h1>Hello, I am Dipali</h1>
   </div>
