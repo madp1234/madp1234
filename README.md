@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-![Header Image](https://yourimageurl.com/header-image.gif)
+![Header Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ## 👋 Introduction
 Hello! 👋 I'm Dipali, a student pursuing B.Tech in Information Technology at Dharmsinh Desai University. My expertise lies in developing websites infused with AI technology. I have a keen interest in cybersecurity and enjoy exploring its nuances. Outside of tech, I love traveling, playing sports, and dancing.
