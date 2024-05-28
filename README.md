@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div style="position: relative; text-align: center; color: white;">
-  <img src="https://www.google.com/search?q=octocat+github+with+laptop+gif&sca_esv=db94807e8ff0f820&rlz=1C1CHBF_enIN989IN989&udm=2&biw=1280&bih=551&sxsrf=ADLYWIKp2ag5qrruKQMWOZQJWQgcewWzYw%3A1716896350552&ei=XsJVZsCPIdyeseMP4qKv-AQ&ved=0ahUKEwjAttyoobCGAxVcT2wGHWLRC08Q4dUDCBA&uact=5&oq=octocat+github+with+laptop+gif&gs_lp=Egxnd3Mtd2l6LXNlcnAiHm9jdG9jYXQgZ2l0aHViIHdpdGggbGFwdG9wIGdpZkjQEFC3A1iwDnABeACQAQCYAc8BoAGvBaoBBTAuMy4xuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAe0AQ&sclient=gws-wiz-serp#vhid=RVhx4e4LlpZNJM&vssid=mosaic" alt="Header Image" style="width: 100%; height: auto;">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcameronmcefee.com%2Fwork%2Fthe-octocat%2F&psig=AOvVaw05pU8k9wB6jqVUMxDxj7UO&ust=1716982764662000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICpurahsIYDFQAAAAAdAAAAABAE" alt="Header Image" style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <h1>Hello, I am Dipali</h1>
   </div>
